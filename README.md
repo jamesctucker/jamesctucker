@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Here are some of Github stats
-[![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesctucker&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesctucker&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesctucker&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesctucker&layout=compact&langs_count=8&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
