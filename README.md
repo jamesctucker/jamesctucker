@@ -20,10 +20,10 @@ You can say hello to me on Twitter [![Twitter](https://img.shields.io/twitter/fo
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="30" height="30"/>&nbsp;
 
-## Here are some of my Github stats
-[![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesctucker&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ## Here are some of my Github stats -->
+<!-- [![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesctucker&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesctucker&layout=compact&langs_count=8&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesctucker&layout=compact&langs_count=8&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
